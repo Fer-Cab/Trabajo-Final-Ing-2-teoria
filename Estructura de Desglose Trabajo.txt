@@ -1,0 +1,45 @@
+Estructura de Desglose Trabajo	(El ABC... pag 90)
+
+Crear la Estructura de Desglose del Trabajo
+El proceso de crear la estructura de desglose del trabajo (EDT) o WBS (work 
+breakdown structure), consiste en dividir al proyecto en menores componentes 
+para facilitar la planificación del proyecto.
+
+
+¿Qué necesito para empezar?
+* Enunciado del alcance
+* Documentación de requisitos
+
+La EDT es una especie de organigrama jerárquico del proyecto donde se sub-
+divide el mismo en menores componentes.
+
+¿En cuántos niveles debo descomponer el proyecto? Deberías subdividirlo 
+hasta aquel punto en que los costos y el cronograma puedan estimarse con 
+precisión para cada paquete de trabajo.
+
+
+Ejemplo pag 92 - 95
+
+En la EDT no hay lugar suficiente para explicitar qué significa cada uno de sus 
+términos. Por tal motivo, es importante que se acompañe con el diccionario 
+de la EDT donde se pueden encontrar con más detalle los términos de cada 
+componente de la EDT.
+
+Ejemplo pag 93
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

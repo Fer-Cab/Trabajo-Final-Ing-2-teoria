@@ -1,0 +1,75 @@
+Alcance (El ABC... pag 82)
+
+Por su parte, el alcance del proyecto consiste en definir todos los procesos y 
+el trabajo necesario para que el producto sea provisto con todas las 
+características y funciones requeridas. Por ejemplo, definir todo el trabajo y los 
+procesos que tendremos que seguir para tener esa computadora en tiempo y forma.
+
+
+Planificación del alcance
+Durante el proceso de desarrollar el plan para la dirección del proyecto se 
+realiza la planificación del alcance para definir cómo se llevarán a cabo los 
+procesos de la gestión del alcance.
+
+
+Como resultado de la planificación del alcance obtendremos:
+
+* Plan de gestión del alcance del proyecto
+El plan de gestión del alcance es un documento donde se definen los 
+procedimientos que se llevarán a cabo para:
+
+* Preparar el enunciado o declaración del alcance 
+* Crear y aprobar la EDT
+* Realizar la verificación del alcance
+* Procesar y aprobar los cambios en el alcance
+
+Debemos dar al Cliente lo que nos pidió, ¡ni más ni menos!
+Estos procesos nos ayudarán a evitar que se agreguen cambios que no 
+pasaron por el control integrado de cambios y de esta forma prevenir trabajos 
+no solicitados (“gold plating”).
+
+Los cinco procesos de la gestión del alcance son:
+
+1. Recopilar requisitos: documentar las necesidades de los interesados 
+para convertirlas en requisitos del proyecto.
+2. Definir el alcance: desarrollar el enunciado del alcance detallado, el qué.
+3. Crear la estructura de desglose del trabajo o EDT: descomponer el 
+proyecto en partes más pequeñas.
+4. Verificar el alcance: conseguir la aceptación formal del alcance por 
+parte del cliente o patrocinador.
+5. Controlar del alcance: gestionar los cambios en el alcance.
+
+Documentación de requisitos: justificación del proyecto, objetivos,
+funcionalidad del producto, calidad, seguridad, criterios de aceptación, 
+impactos del proyecto en otras áreas, supuestos, restricciones, etc.
+
+Ejemplo pag 86
+
+En el proceso de definir el alcance se profundiza el nivel de detalle del 
+proyecto y del producto.
+
+¿Qué necesito para empezar?
+* Acta de constitución del proyecto
+* Documentación de requisitos
+
+Ejemplo pag 89
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

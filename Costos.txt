@@ -1,0 +1,57 @@
+Costos.   (El ABC... pag 140)
+
+Tipos de costos
+Existen diversos tipos de costos, a continuación mencionaremos los principales.
+
+* Costos variables: dependen del volumen de producción. Por ejemplo 
+las materias primas. Mientras más zapatillas se producen, se requieren más telas y cordones.
+
+* Costos fijos: No cambian con el volumen de producción. Por ejemplo 
+los alquileres. Independientemente del volumen de producción de una 
+fábrica de palos de golf, el alquiler que se paga por ese lugar se mantendrá fijo.
+
+* Costos directos: se pueden atribuir directamente al proyecto. Por 
+ejemplo, los costos de un viaje para promocionar exclusivamente una nueva crema de belleza.
+
+* Costos indirectos: benefician a varios proyectos y generalmente no se 
+puede identificar con exactitud la proporción que corresponde a cada 
+uno. Por ejemplo los gastos de estructura (contabilidad, luz, teléfono,PMO, etc.). 
+
+* Costo de oportunidad: el costo de oportunidad de un recurso es su
+mejor alternativa dejada de lado. Al estimar el costo de las actividades 
+del proyecto, no sólo se deben incluir las salidas de caja, sino también 
+los costos de oportunidad de cada recurso. 
+
+* Costos hundidos o enterrados: costos que ya fueron devengados y 
+no cambiarán con la decisión de hacer o no hacer el proyecto.
+
+
+Estimar los costos
+Una vez que tenemos el plan de gestión de costos, se estiman los costos de 
+los recursos de cada una de las actividades del proyecto.
+
+¿Qué necesito para empezar?
+* Línea base del alcance: enunciado, EDT y diccionario de la EDT
+* Planes: cronograma, recursos humanos y riesgos.
+
+
+Determinar el presupuesto
+Durante el proceso de preparar el presupuesto se establece la línea base de 
+costo del proyecto.
+
+¿Qué necesito para empezar?
+
+* Línea base del alcance: enunciado, EDT y su diccionario
+* Estimaciones de costos y respaldo de las estimaciones
+* Cronograma y disponibilidad de recursos
+* Contratos
+
+
+
+
+
+
+
+
+
+

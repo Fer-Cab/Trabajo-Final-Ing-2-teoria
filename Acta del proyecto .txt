@@ -1,0 +1,41 @@
+Acta del proyecto  (El ABC... pag 66)
+
+¿Qué necesitamos para comenzar a desarrollar el acta de constitución del 
+proyecto?
+
+* Factores ambientales de la empresa
+* Activos del los procesos de la organización
+* El enunciado del trabajo o S.O.W. (statement of work)
+* Caso de negocio: justificación del proyecto por una necesidad comercial, 
+demanda insatisfecha, cambio tecnológico, requisito legal, etc.
+* El contrato (en caso que exista)
+
+Los factores ambientales (cultura, sistemas, recursos humanos, etc.) y los 
+activos de los procesos de la organización (políticas, procesos, normas, 
+información histórica y lecciones aprendidas), son entradas necesarias en 
+todos los procesos de planificación de proyectos. A partir de ahora los 
+llamaremos simplemente “ambiente” y “activos”. 
+
+* El “ambiente” es la carga que recibe el DP antes de planificar, 
+mientras que los “activos” son necesarios para no re-inventar la rueda.
+
+Este documento escrito, denominado en inglés Project Charter, por lo 
+general suele incluir lo siguiente:
+
+* Justificación del proyecto: problema, oportunidad, requisito de negocio, etc.
+* Objetivos medibles y criterios de éxito
+* Requisitos generales
+* Descripción general del proyecto
+* Riesgos preliminares
+* Resumen del cronograma de hitos
+* Presupuesto preliminar resumido
+* Criterios de aprobación: ¿qué criterios deben cumplirse para que sea un 
+proyecto exitoso? ; ¿quién aprueba y firma si se cumplieron esos criterios?
+* Director del proyecto, responsabilidad y nivel de autoridad
+* Interesados
+* Nombre del patrocinador y nivel de autoridad que firmará al acta de 
+constitución del proyecto
+
+Ejemplos pag 68 - 69
+
+

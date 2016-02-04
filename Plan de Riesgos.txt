@@ -1,0 +1,159 @@
+
+Plan de Riesgos  (El ABC... pag 254)
+
+
+El riesgo representa el impacto potencial de todas las amenazas u
+oportunidades que podrían afectar los logros de los objetivos del proyecto.
+
+*	Probabilidad de ocurrencia
+Cada evento riesgoso tiene alguna chance de suceder. Por ejemplo, la 
+probabilidad de que tengamos temblores en una Ciudad según estadísticas 
+históricas es del 2%. Esto significa que en el largo plazo, si se mantienen las 
+condiciones utilizadas en la estimación, temblará 2 de cada 100 días. Si la 
+probabilidad de ocurrencia fuera del 4% se dice que el evento tiene el doble de 
+posibilidades de ocurrir en relación a una probabilidad del 2%.
+Un hecho improbable que ocurra tiene una probabilidad de ocurrencia cercana 
+a cero. Por el contrario, un hecho que es casi seguro que ocurra posee una 
+probabilidad de ocurrencia muy cercana a 100%. Por lo tanto, 
+matemáticamente se suele representar a la probabilidad de ocurrencia en una 
+escala que va del 0 al 1.
+Hay veces que no conocemos con precisión la probabilidad de ocurrencia de un 
+evento riesgoso y lo único que tenemos es una percepción basada en una 
+opinión o una investigación que probablemente no es del todo correcta. En 
+estos casos, se puede utilizar un rango de probabilidad estimado y realizar un 
+análisis de sensibilidad con el posible impacto de cada escenario sobre los objetivos del proyecto.
+
+* Impacto
+
+El riesgo no se cuantifica sólo por su probabilidad de ocurrencia, sino también 
+por su impacto sobre los objetivos del proyecto (alcance, tiempo, costo, 
+calidad). Por ejemplo, si la probabilidad de mal clima es muy alta, pero los 
+daños en el proyecto son muy bajos, ese riesgo no debería preocuparnos demasiado. 
+Un proyecto será más riesgoso si presenta un 10% de probabilidad de 
+ocasionar daños por $500.000, que en el caso de tener un 10% de 
+probabilidad de generar daños por $100.000.
+
+Los seis procesos de la gestión de los riesgos son:
+1. Planificar la gestión de riesgos: cómo se planificarán y ejecutarán 
+las actividades de identificación, análisis, respuesta y monitoreo de los riesgos.
+
+2. Identificar los riesgos: qué riesgos afectan al proyecto.
+
+3. Realizar análisis cualitativo de riesgos: estimar de manera 
+cualitativa (ej. alto, medio, bajo) la probabilidad y el impacto de cada 
+riesgo a los fines de hacer una priorización de los mismos.
+
+4. Realizar análisis cuantitativo de riesgos: estimar numéricamente la 
+probabilidad (ej. 5%) y el impacto (ej. $10.000) para priorizar los 
+riesgos con mayor precisión.
+
+5. Planificar la respuesta a los riesgos: planificar las acciones que se 
+llevarán a cabo para mejorar las oportunidades y reducir las amenazas.
+
+6. Monitorear y controlar los riesgos: monitorear y ejecutar los planes 
+de respuesta al riesgo.
+
+
+Matriz de riesgo:
+
+						
+								Impacto
+
+					1 		2 		3 		5 		10
+	
+   Probabilidad				
+
+		1 			1 		2		3		5 		10
+
+		2 			2 		4 		6 		10 		20
+
+		3 			3 		6 		9 		15 		30
+
+		4 			4 		8 		12 		20 		40
+
+		5 			5 		10 		15 		25 		50
+
+				
+Categorización de las estrategias:
+
+Puntaje 	Prioridad 	Estrategia		 Significado de cada estrategia
+
+1 - 2 		Muy baja 	Aceptación pasiva		 No hacer nada
+
+3 - 4 		Baja 		Aceptación activa		Dejar por escrito que se hará cuando ocurra ese riesgo
+
+5 a 10 		Medio 		Mitigar 				Acciones para disminuir la probabilidad y/o el impacto
+
+11 a 24 	Alta 		Transferir 				Trasladar el riesgo a un tercero. Ejemplo: seguros.
+
+25 a 50 	Muy alta 	Evitar 					No avanzar con el proyecto hasta no disminuir el puntaje.
+
+
+Registro de riesgos: documento que incluye los riesgos identificados,las posibles
+respuestas, las causas de los riesgos y las categorías de riesgo.
+
+Matriz de probabilidad e impacto: 	( pag 266 )
+suele representarse con una tabla de doble entrada donde se combina la probabilidad y
+ el impacto para poder hacer una priorización de los riesgos.
+
+Luego de obtener el puntaje del impacto y la probabilidad de ocurrencia de un 
+riesgo, se asigna la calificación a ese riesgo multiplicando el impacto por la 
+probabilidad de ocurrencia.
+
+Categorización de riesgos por tipo
+								Tipo de
+								Riesgos
+								
+   	Técnico			Externo			Organización			Dirección
+		Tecnología		Proveedores		Recursos				Planificación
+		Calidad			Mercado			Financieros				Control
+		Complejidad		Clima			Prioridades				Comunicación
+		Técnico			Externo			Organización			Dirección
+		
+		
+		
+* Otra categorización de riesgos suele ser:
+Internos: tiempo, costo, alcance, personas
+Externos: regulaciones, gobierno, clima
+Técnico: cambio tecnológico
+Imprevistos: sólo un 10%
+
+* Existen riesgos de negocios como por ejemplo la pérdida de tiempo y 
+dinero; y riesgos puros como serían lesiones o muerte.
+	
+	
+	Planificar la respuesta a los riesgos
+La planificación de la respuesta al riesgo consiste en desarrollar 
+procedimientos y técnicas que permitan mejorar las oportunidades y disminuir 
+las amenazas que inciden sobre los objetivos del proyecto. Este suele ser el 
+proceso más importante de la gestión de riesgos, pues es aquí donde se toma 
+la decisión de cómo responder a cada riesgo identificado. 
+¿Qué necesito para empezar?
+* Registro de riesgos
+* Plan de gestión de riesgos
+
+¿Qué herramientas puedo utilizar?
+
+Para los riesgos negativos se suelen utilizar las siguientes estrategias o 
+herramientas: evitar, transferir, mitigar o aceptar.
+* Evitar: cambiar las condiciones originales de realización del proyecto 
+para eliminar el riesgo identificado. Por ejemplo, si traer una tecnología 
+importada traerá graves problemas en los servicios de post-venta, 
+evitar sería desestimar la utilización de esa tecnología y reemplazarla 
+por alguna otra. Esta estrategia a veces implica la cancelación del proyecto.
+* Transferir: trasladar el impacto negativo del riesgo hacia un tercero.
+Por ejemplo, contratar un seguro o colocar una penalidad en el contrato con el proveedor.
+* Mitigar: disminuir la probabilidad de ocurrencia y/o el impacto. Por 
+ejemplo, instalar un sistema de alarmas en caso de incendio.
+* Aceptar: no cambiar el plan original. Una aceptación activa consiste en 
+dejar establecida una política de cómo actuar en caso que ocurra el 
+evento negativo. Por ejemplo, instrucciones de cómo seguir facturando 
+en forma manual en caso que exista un corte de energía. Mientras que 
+una aceptación pasiva consiste en no hacer absolutamente nada con algún riesgo identificado.
+
+
+Por su parte, para los riesgos positivos se suelen utilizar las siguientes 
+estrategias o herramientas: explotar, compartir, mejorar, aceptar.
+
+Monitorear y controlar los riesgos		pag 296
+
