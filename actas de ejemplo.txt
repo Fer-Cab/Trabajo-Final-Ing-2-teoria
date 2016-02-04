@@ -1,0 +1,145 @@
+Proyectos de ejemplo 
+
+proyecto nombre: UNR conectada
+
+fecha: 30/09/15
+
+justificación del proyecto:
+	-mejorar la comunicación entre las dos facultades
+	-llevar un control de la comunicación
+	
+objetivos estratégicos:
+	-conexión eficiente entre las dos facultades con acceso a internet
+	-llevar un servicio de internet para alumnos y docentes gratuito para dos facultades en diferentes instalaciones, con más de diez cuadras de distancia
+	
+criterios de éxito:
+	-que la red soporte 500 host conectados a la red simultáneamente (aprox)
+	-que la velocidad de subida sea 8 mb
+	-que la velocidad de descarga sea de 10 mb
+	
+requisitos de alto nivel:
+	-contar con  en cada facultad.
+	-antenas receptoras q cubren las dimensiones de las facultades
+	-departamento de mantenimiento full time 
+
+descripción del proyecto de alto nivel:
+	-construcción de una red wifi para conectar las dos facultades y dar soporte a la red. 
+
+Riesgos:
+	-hardware más costoso del estimado. -> reducir cantidad de router, pedir más subsidios al estado
+	-no se cuentan con el personal para brindar soporte full time -> contar con voluntarios entre los alumnos
+	-falta capital para dar soporte a la red -> contar con ayuda de la comunidad estudiantil, realizando cursos (pagos) o actividades o rifas y servicios
+	-ISP no nos brinda la banda ancha requerida -> disminuir el tamaño de la  red o contratar otro ISP adicional
+resumen de cronología de hitos
+	1/10/15: definición detallada de los requerimientos y presupuestos.
+	2/10/15: compra de los routers y demás hardware
+	2/10/15: contratación de los ISP
+	2/11/15: instalación del hardware
+	9/11/15: coneccion y configuración
+	15/11/15: fijar estrategias de planes de mantenimiento
+	16/11/15: darle acceso a todos los alumnos y profesores de las facultades
+	
+resumen de presupuesto: 10000
+	
+------------------------------------------------------------------------------------------------------------
+
+Fecha: 3 de junio
+
+Nombre del proyecto: UNR Conectada
+
+Justificación del proyecto:
+ Alta disponibilidad de los datos Posibilidad de conexión wifi para todos los alumnos
+
+Objetivos estratégicos:
+ Servicio: proveer un servicio a la red con acceso a internet a los miembros de la facultad
+ Reconocimiento: Ser la primera facultad latinoamericana en proveer este servicio.
+
+Criterios de éxito:
+ Número mínimo de alumnos conectados = 300
+ Calificación en encuesta de satisfacción = 2,5 (max. 5)
+ Que este servicio posea un uptime minimo de 22 horas diarias
+
+Requisitos de alto nivel
+ Antena wifi largo alcance
+ Antena wifi receptora
+ Materiales necesarios para la instalacion lan
+
+Descripcion del proyecto de alto nivel
+ Comparte datos entre facultades
+ Brinda internet a alumnos del establecimiento
+ Aumenta la capacidad de usuarios conectados
+
+Riesgos de alto nivel
+ Riesgo identificado							Plan de respuesta preliminar
+ Obstaculos entre medio de las antenas			Aumentar altura de antenas
+ Obtener el equipamiento necesario				Renegociar los plazos de tiempo
+
+Resumen del cronograma de hitos
+ 15-05: Contrato firmado con lugares para realizar el evento
+ 16-05: Obtencion de autorizacion para realizar trabajos de infraestructura en la facultades
+ 20-05: Comienzo de obras de instalacion.1
+ 10-08: Finalizacion de obras y testeo de red
+
+Resumen del presupuesto
+ Ingresos estimados = $140.000 ; Egresos estimados = $60.000
+
+Requisitos para la aprobación del proyecto
+ Aprobacion del presupuesto para la financiacion del proyecto
+ Otorgacion de los permisos para obras en las facultades
+
+Director del proyecto y nivel de autoridad
+ Director del Proyecto: Paul Leido
+ Selecciona a los miembros del equipo de trabajo.
+ Aprueba: presupuesto, plan de marketing, plan de comunicaciones.
+
+
+------------------------------------------------------------------------------------------------------------
+
+ Fecha: 30/09/15
+    
+    Nombre del Proyecto: UNR Conectado.
+
+    Justificacion del Proyecto: 
+    Interconctar las 2 facultades para el intercambio de informacion y facilitar la gestion del modelado y desarrollo de distintos proyectos en conjunto.
+    Otros.
+    
+    Objetivos Estrategicos:
+    Ofrecer una comunicacion en comun para permitir un campo mas amplio a nivel de investigacion y de
+	desarrollo uniendo las distintas areas facultativas con el objetivo de afianzar lazos y explotar al
+	maximo los diferentes niveles academicos
+
+    Criterios de �xito:
+    Optimizacion en los tiempos de implementacion en las distintas areas de investigacion para los nuevos proyectos.
+    Lograr una mejor calidad de desarrollo para los nuevos proyectos a gestionar.
+
+    Requisitos de alto nivel:
+    Infraestructura adecuada para una mejor calidad de comunicaci�n.
+    Soporte capacitado para ofrecer manteniminto constante en las vias de comunicaci�n.
+
+    Descripcion del proyecto de alto nivel:
+    Investigacion de campo para ofrecer un mayor rendimiento a la hora de establecer el enlace.
+    Instalacion de antenas a la altura adecuada libre de interferencia visual. 
+    Colocacion de equipos adecuados para la administracion y gestion remota.
+    Instalacion de dichos equipos en ambas antenas.
+
+    Riesgos de alto nivel:
+    
+Riesgo identificado
+Plan de respuesta preliminar
+Calculo erroneo del tiempo del proyecto
+Priorizar las instalaciones de alto nivel en cuanto a infraestructura reorganizando los tiempos y adecuando el plan de accion
+Llegada de equipos defectuosos
+Reemplazo con equipos auxiliares ofreciendo una conexi�n temporaria hasta la llegada de partida de equipos correspondientes pactados
+
+     Resumen del cronograma de hitos:
+    7 de octubre: relevamiento de requisitos iniciales y elaboracion del plan de accion
+    16 de octubre; sprint 1 finalizado:
+     Colocacion de infraestructura correspondiente a lo pactado (antenas)
+    20 de octubre; sprint 2 finalizado:
+    Colocacion de equipos de alto alcance. 
+    Testeo de comunicaci�n.
+    Configuracion del firmware necesario para la encriptacion de datos.
+    23 de octubre: Presentacion de proyecto finalizado y puesta en marcha definitiva.
+
+    Resumen del presupuesto:
+    $ 200.000 (Doscientos mil)
