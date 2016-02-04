@@ -1,0 +1,43 @@
+1-Una cuenta pertenece a un unico empleado
+2-Un empleado tiene una unica cuenta
+3-Una cuenta se la identifica por un numero
+4-Una cuenta tiene nombre de usuario y contraseña
+5-Un empleado posee permisos asociados a su cuenta
+6-Existen 3 tipos de permisos: gerente, vendedor (un vendedor vende y alquila)  y administrativo
+
+7-Un empleado se identifica con un numero de empleado (id)
+8-Un empleado se puede identificar ademas con tipo y numero de documento
+9-Del empleado se desea conocer ademas nombre ,	apellido,telFijo,	telCel,	direccion,
+	ciudad,	provincia,nacionalidad,e_mail,	foto, fechaIngreso 
+
+10-Un propietario puede tener varios inmuebles
+11-Un inmueble corresponde a un unico propietario
+12-Un propietario se identifica con un numero de propietario (id)
+13-Un propietario se puede identificar ademas con tipo y numero de documento
+14-Del propietario se desea conocer ademas nombre ,apellido,telFijo,telCel, direccion,
+	ciudad,	provincia,nacionalidad,e_mail, numCuenta 
+
+15-Un cliente puede alquilar un unico inmueble en un periodo de tiempo determinado
+16-Un inmueble es alquilado por un unico cliente en un periodo de tiempo determinado
+17-Un cliente puede comprar uno o mas inmuebles
+18-Un inmueble es comprado por un unico cliente
+19-Un vendedor puede atender a mas de un cliente
+20-Un cliente es atendido por un unico vendedor
+21-Un cliente se identifica con un numero de cliente (id)
+22-Un cliente se puede identificar ademas con tipo y numero de documento
+23-Del cliente se desea conocer ademas nombre ,apellido,telFijo,telCel, direccion,
+	ciudad,	provincia,nacionalidad,e_mail
+
+24-Un alquiler dura dos años
+25-Al año de iniciado el contrato de alquiler, el monto del mismo aumenta un 20%
+26-Un alquiler puede ser cancelado en cualquier momento de la vida del contrado 
+27-Un contrato de alquiler tiene 3 estados: en curso, finalizado y cancelado 
+
+28-Un  inmueble se identifica con un numero de inmueble (id)
+29-Un inmueble se puede identificar ademas con direccion,	piso y dpto , ciudad
+30-Del inmueble se desea conocer ademas descripcion, tipoDeInmueble, tipoDeOperacion,
+	estado, provincia, numHabitaciones, cantidad de baños, m2, monto de alquiler ,
+	monto de la venta , tipoSuelo, tiene garage , tiene ascensor , esta amueblado , comision
+31-Un inmueble puede tener varias imagenes (fotos)
+32-Una imagen corresponde a un solo inmueble
+33-Una imagen se identifica por un numero de imagen (id) y tiene un nombre
